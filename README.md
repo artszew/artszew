@@ -9,7 +9,6 @@ Currently looking for my first job or internship in the tech industry.
 
 ### 🛠️ Technologies I work with:
 <img align="left" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 <img align="left" alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
 <img align="left" alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white" />
