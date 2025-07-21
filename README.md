@@ -23,7 +23,9 @@ Currently looking for my first job or internship in the tech industry in Lodz or
 ### 📬 Contact me:
 <!--[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/username)  -->
 📧 arturszewczykowski@wp.pl
-
+<br>
+<br>
+<br>
 [PL]
 ______
 ### Witaj! 👋
