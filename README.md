@@ -3,7 +3,7 @@ _______
 ### Hello World! 👋
 
 I'm a **final-year Applied Computer Science student at Lodz University of Technology**, specializing in Database Engineering.  
-Currently looking for my first job or internship in the tech industry in Lodz or remotely.
+I am currently working as a Junior Financial Analyst and also writing my engineering thesis – a mobile application developed in Flutter.
 
 💡 I'm most passionate about **data processing and analysis**, but I also have experience in developing **web applications**, both on the **backend** (Python/Flask, Java) and **frontend** (HTML/CSS/JavaScript).
 
